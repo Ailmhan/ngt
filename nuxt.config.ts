@@ -1,8 +1,5 @@
 export default defineNuxtConfig({
   ssr: false,
-  devServer: {
-    port: 8000
-  },
   app: {
     head: {
       charset: "utf-16",
