@@ -46,7 +46,7 @@
             </svg>
 
             <span class="ml-2 tracking-wide text-slate-400"
-              >techian@.co.id</span
+              >admin@enlightenedminds.io</span
             >
           </div>
 
@@ -65,13 +65,14 @@
               />
             </svg>
 
-            <span class="ml-2 tracking-wide text-slate-400">021-242-546</span>
+            <span class="ml-2 tracking-wide text-slate-400">+971 4 572 4036</span>
           </div>
 
           <button
             class="default-button-primary mt-14 block rounded-xl py-3 px-8 text-base font-medium tracking-wide text-white-primary outline-0 ease-out lg:font-semibold"
-          >
-            Contact Us Now
+          >    <a href="https://wa.me/971582884213">  Contact Us Now</a>
+
+          
           </button>
         </div>
       </div>

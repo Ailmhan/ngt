@@ -19,7 +19,7 @@ const closeSidebar = () => {
             fill="#3364ED" />
         </svg>
         <h1 class="text-2xl font-bold text-black-primary">
-          Tech<span class="text-red-primary">ian</span>
+          Next<span class="text-red-primary">Gen</span>
         </h1>
       </div>
       <button class="lg:hidden" @click="openSidebar">
@@ -44,9 +44,7 @@ const closeSidebar = () => {
         <li class="nav-item" @click="closeSidebar">
           <a href="#products" class="text-base font-medium tracking-wider">Products</a>
         </li>
-        <li class="nav-item" @click="closeSidebar">
-          <a href="#testimony" class="text-base font-medium tracking-wider">Testimony</a>
-        </li>
+       
         <li class="nav-item" @click="closeSidebar">
           <a href="#why-us" class="text-base font-medium tracking-wider">About Us</a>
         </li>

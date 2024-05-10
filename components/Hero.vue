@@ -15,9 +15,9 @@
         <h1
           class="text-3xl font-bold leading-10 text-black-primary md:text-4xl lg:text-5xl"
         >
-          Everything You <span class="text-blue-primary">Need</span> <br />
-          To Manage Your
-          <span class="text-blue-primary">Bussiness</span>
+          Next-<span class="text-blue-primary">Gen</span> <br />
+          Technology
+          <span class="text-blue-primary"> soft-ware development company</span>
         </h1>
         <p class="mt-6 text-base font-normal leading-relaxed text-grey-primary">
           We provide the best real-time solutions,

@@ -28,7 +28,9 @@
           <button
             class="default-button-primary mt-14 block rounded-xl py-3 px-8 text-base font-medium tracking-wide text-white-primary outline-0 ease-out lg:font-semibold"
           >
+          <a   href="#contact-us">
             Contact Us Now
+            </a>
           </button>
         </div>
 
