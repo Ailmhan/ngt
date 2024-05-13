@@ -41,13 +41,12 @@
             href="#"
             class="mt-12 block px-6 text-2xl font-bold leading-10 text-black-primary"
           >
-            Dashboard Admin
+          BI Analytics
           </a>
           <p
             class="mt-1 px-6 pb-6 text-base font-normal leading-relaxed text-grey-primary"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi magni itaque earum laboriosam distinctio omnis.
-          </p>
+          In addition, we implement BI systems and create custom dashboard analytics to help companies harness data-driven insights. Our BI solutions enable effective monitoring, analysis, and visualization of business data.          </p>
         </div>
 
         <div
@@ -79,8 +78,7 @@
           <p
             class="mt-1 px-6 pb-6 text-base font-normal leading-relaxed text-grey-primary"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi magni itaque earum laboriosam distinctio omnis.
-          </p>
+        We provide comprehensive CRM system setup and support, helping companies streamline their customer relationship management. Our CRM services ensure smooth integration and continuous operational support, optimizing  business processes.</p>
         </div>
 
         <div
@@ -107,13 +105,12 @@
             href="#"
             class="mt-12 block px-6 text-2xl font-bold leading-10 text-black-primary"
           >
-            Attendance Application
+            AI Development
           </a>
           <p
             class="mt-1 px-6 pb-6 text-base font-normal leading-relaxed text-grey-primary"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi magni itaque earum laboriosam distinctio omnis.
-          </p>
+          We specialize in developing advanced AI solutions incorporating Large Language Models (LLM), Text-to-Speech (TTS), and Computer Vision (CV) technologies. Our services cater to businesses looking to enhance their operations and customer engagement through tailored AI applications.          </p>
         </div>
       </div>
     </div>

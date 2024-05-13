@@ -23,19 +23,40 @@ const client_manifest = {
     "prefetch": true,
     "preload": true
   },
+  "assets/images/CAI.svg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/svg+xml",
+    "file": "CAI.DpseT-CO.svg",
+    "src": "assets/images/CAI.svg"
+  },
+  "assets/images/EM.svg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/svg+xml",
+    "file": "EM.B_-8SQmb.svg",
+    "src": "assets/images/EM.svg"
+  },
+  "assets/images/Letsrock.svg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/svg+xml",
+    "file": "Letsrock.osoXaYxY.svg",
+    "src": "assets/images/Letsrock.svg"
+  },
+  "assets/images/Silkway.svg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/svg+xml",
+    "file": "Silkway.BGJ6OaZn.svg",
+    "src": "assets/images/Silkway.svg"
+  },
   "assets/images/absensi.jpg": {
     "resourceType": "image",
     "prefetch": true,
     "mimeType": "image/jpeg",
     "file": "absensi.Cy2FcJNN.jpg",
     "src": "assets/images/absensi.jpg"
-  },
-  "assets/images/adobe.png": {
-    "resourceType": "image",
-    "prefetch": true,
-    "mimeType": "image/png",
-    "file": "adobe.C8GONasS.png",
-    "src": "assets/images/adobe.png"
   },
   "assets/images/crm.jpg": {
     "resourceType": "image",
@@ -51,19 +72,12 @@ const client_manifest = {
     "file": "dashboard.Ct4sQGRl.jpg",
     "src": "assets/images/dashboard.jpg"
   },
-  "assets/images/spotify.png": {
-    "resourceType": "image",
-    "prefetch": true,
-    "mimeType": "image/png",
-    "file": "spotify.Cqie5E0A.png",
-    "src": "assets/images/spotify.png"
-  },
   "node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "zhbY4ABG.js",
+    "file": "kKM9WYlh.js",
     "name": "entry",
     "src": "node_modules/nuxt/dist/app/entry.js",
     "isEntry": true,
@@ -86,7 +100,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "Dxz6c-A9.js",
+    "file": "CWHdmua0.js",
     "name": "index",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
@@ -95,24 +109,38 @@ const client_manifest = {
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "assets": [
-      "adobe.C8GONasS.png",
-      "spotify.Cqie5E0A.png",
+      "CAI.DpseT-CO.svg",
+      "EM.B_-8SQmb.svg",
+      "Letsrock.osoXaYxY.svg",
+      "Silkway.BGJ6OaZn.svg",
       "dashboard.Ct4sQGRl.jpg",
       "crm.CD5-NxEj.jpg",
       "absensi.Cy2FcJNN.jpg"
     ]
   },
-  "adobe.C8GONasS.png": {
-    "file": "adobe.C8GONasS.png",
+  "CAI.DpseT-CO.svg": {
+    "file": "CAI.DpseT-CO.svg",
     "resourceType": "image",
     "prefetch": true,
-    "mimeType": "image/png"
+    "mimeType": "image/svg+xml"
   },
-  "spotify.Cqie5E0A.png": {
-    "file": "spotify.Cqie5E0A.png",
+  "EM.B_-8SQmb.svg": {
+    "file": "EM.B_-8SQmb.svg",
     "resourceType": "image",
     "prefetch": true,
-    "mimeType": "image/png"
+    "mimeType": "image/svg+xml"
+  },
+  "Letsrock.osoXaYxY.svg": {
+    "file": "Letsrock.osoXaYxY.svg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/svg+xml"
+  },
+  "Silkway.BGJ6OaZn.svg": {
+    "file": "Silkway.BGJ6OaZn.svg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/svg+xml"
   },
   "dashboard.Ct4sQGRl.jpg": {
     "file": "dashboard.Ct4sQGRl.jpg",
